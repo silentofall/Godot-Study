@@ -1,4 +1,8 @@
 # Bilibili Up上的视频资料
+
+记录学习进度：P16 游戏节点的显示顺序
+
+
 # 一、学习资料地址：
 https://github.com/zfoo-project/godot-start
 # 二、Fast Github
@@ -6,5 +10,5 @@ https://github.com/zfoo-project/godot-start
 相当于进行隔离配置，让不同版本的Godot之间不互相影响
 参考官方文档：
 https://docs.godotengine.org/en/stable/tutorials/io/data_paths.html#self-contained-mode
-创建
+# 四、
 
