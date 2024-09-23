@@ -10,5 +10,7 @@ https://github.com/zfoo-project/godot-start
 相当于进行隔离配置，让不同版本的Godot之间不互相影响
 参考官方文档：
 https://docs.godotengine.org/en/stable/tutorials/io/data_paths.html#self-contained-mode
-# 四、
+# 四、图片素材
+背景图片通常保存为jpg；
+人物道具等其他图片，一般为PNG，背景透明。
 
